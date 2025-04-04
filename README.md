@@ -9,7 +9,12 @@
 
 ## 👌 Sobre o CSS Grid?
 
-CSS Grid Layout introduz um sistema bi-dimensional de grid (literalmente "grades") para CSS. Grids podem ser usados para o design de layouts de grandes seções de uma webpage, assim como de pequenos elementos de interface.
+O que é CSS Grid?
+
+CSS Grid é um sistema de layout bidimensional que permite organizar elementos em linhas e colunas.
+
+Ele facilita a criação de layouts complexos de forma simples e flexível!
+
 
 ---
 
