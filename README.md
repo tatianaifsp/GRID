@@ -7,7 +7,7 @@
 
 ---
 
-## 👌 Sobre o CSS Grid?
+## Sobre o CSS Grid?
 
 O que é CSS Grid?
 
